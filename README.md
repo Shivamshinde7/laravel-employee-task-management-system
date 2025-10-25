@@ -8,7 +8,7 @@ A simple **Employee Task Management System** built using **Laravel** with **real
 [View Application](https://cyan-goldfinch-221104.hostingersite.com/home)
 
 **Login Credentials:**
-- Email: `shivam@mail.com`  
+- Email: `shivam@mail.com`  or `john@mail.com`
 - Password: `123456789`
 
 > WebSocket chat works only in local setup.
